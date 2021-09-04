@@ -14,6 +14,6 @@
 
 1. Rinse and finely chop the chipotle and habenero peppers
 2. In a skillet, toast the peppers and spices until fragrant (1-2 minutes maybe)
-3. Add vinegar, water, sugar mango and salt
+3. Add vinegar, water, sugar mango, pineapple and salt
 4. Simmer for 10 minutes
 5. Allow mixture to cool, blend until smooth. If sauce is too thick, add additional vinegar until desired consistency is acheived.
