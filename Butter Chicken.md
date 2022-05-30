@@ -1,34 +1,33 @@
 ### Butter Chicken
 
 ### Marinade
-2-2.5 pounds boneless, skinless chicken thighs, trimmed
-1 1/4 cup whole milk yogurt
-4 teaspoons kosher salt 
-1 tablespoon finely grated ginger 
-2 cloves garlic, finely grated 
-2 teaspoons garam masala
-1 teaspoon turmeric
-1 teaspoon ground cumin
-1 teaspoon red chili powder
+* 2-2.5 pounds boneless, skinless chicken thighs, trimmed
+* 1 1/4 cup whole milk yogurt
+* 4 teaspoons kosher salt 
+* 1 tablespoon finely grated ginger 
+* 2 cloves garlic, finely grated 
+* 2 teaspoons garam masala
+* 1 teaspoon turmeric
+* 1 teaspoon ground cumin
+* 1 teaspoon red chili powder
 
 ### Sauce
 
-4 tablespoons unsalted cultured butter cut into 4 pieces and chilled, divided
-1 onion, chopped fine
-5 garlic cloves, minced
-4 teaspoons grated fresh ginger
-1 tablespoon garam masala
-1 teaspoon ground coriander
-1 serrano chile, stemmed, seeded, and minced
-½ teaspoon ground cumin
-½ teaspoon ground black pepper
-1 teaspoon kasoori methi (or fenugreek leaves)
-1 teaspoon Kashmiri red chili powder
-1½ cups water
-½ cup tomato paste
-1 tablespoon sugar
-1 teaspoon table salt
-1 cup heavy cream
+* 4 tablespoons unsalted cultured butter cut into 4 pieces and chilled, divided
+* 1 onion, chopped fine
+* 5 garlic cloves, minced
+* 4 teaspoons grated fresh ginger
+* 1 tablespoon garam masala
+* 1 teaspoon ground coriander
+* 1 serrano chile, stemmed, seeded, and minced
+* ½ teaspoon ground cumin
+* ½ teaspoon ground black pepper
+* 1 teaspoon kasoori methi (or fenugreek leaves)
+* 1 teaspoon Kashmiri red chili powder
+* 1½ cups water + * ½ cup tomato paste *or* 14oz crushed tomatoes
+* 1 tablespoon sugar
+* 1 teaspoon table salt
+* 1 cup heavy cream
 
 ### Prepare
 * Combine marinade/chicken in large zip-top bag, let sit in fridge overnight. Probably good idea to place sealed bag inside a large bowl just in case.
@@ -52,3 +51,10 @@
 * Cut chicken into bite-size pieces, stir into sauce (season with salt as needed)
 
 Serve on rice with naan
+
+
+### Alternate way of preparing/cooking chicken 
+
+* Cut chicken into bite-sized pieces before adding to marinade
+* Pan-fry pieces in 2T olive oil in batches (saving juices) before building sauce in same pan
+* When it comes time, add chicken/juices to sauce
