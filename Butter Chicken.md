@@ -34,7 +34,7 @@
 
 ### Sauce
 
-* Melt two T butter in large saucepan - medium heat
+* Melt two T butter in large saucepan or Duch oven - medium-high heat (Dutch oven may be better, especially if using immersion blender later)
 * Add onion, garlic, ginger, and chile, stirring frequently, until mixture softens and onion begins to brown (8-10 minutes)
 * Add garam masala, coriander, cumin, black pepper and chili powder and cook, stirring frequently, until fragrant, about 3 minutes.
 * Add water/tomato and whisk until no lumps of tomato remain. Add sugar and 1 teaspoon salt and bring to boil.
@@ -56,5 +56,5 @@ Serve on rice with naan
 ### Alternate way of preparing/cooking chicken 
 
 * Cut chicken into bite-sized pieces before adding to marinade
-* Pan-fry pieces in 2T olive oil in batches (saving juices) before building sauce in same pan
+* Pan-fry pieces in 2T olive oil in batches (saving juices) on medium-high heat before building sauce in same pan. Keep any brown bits that form, scraping bottom of pan
 * When it comes time, add chicken/juices to sauce
