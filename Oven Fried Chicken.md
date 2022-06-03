@@ -18,3 +18,5 @@
 
 * When oven reaches temperature, put butter into skillet. When butter has melted, place each piece of chicken into skillet.\
 * Cook each side for about 12 minutes or until golden brown
+
+*Can add cayenne and other spices to dry mix for extra goodness*
