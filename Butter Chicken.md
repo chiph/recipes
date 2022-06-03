@@ -58,3 +58,7 @@ Serve on rice with naan
 * Cut chicken into bite-sized pieces before adding to marinade
 * Pan-fry pieces in 2T olive oil in batches (saving juices) on medium-high heat before building sauce in same pan. Keep any brown bits that form, scraping bottom of pan
 * When it comes time, add chicken/juices to sauce
+
+
+### Warning
+* This is quite an fragrant dish -- you'll be enjoying the aroma for some time...
