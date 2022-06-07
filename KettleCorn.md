@@ -1,13 +1,14 @@
 ## Kettle Corn
 
-1/4 C Peanut oil
-1/4 C Sugar
-1/2 C Popcorn kernels
+* 1/4 C Peanut oil
+* 1/4 C Sugar
+* 1/2 C Popcorn kernels
+* Salt to taste
 
 * In a large pot with a lid, put oil and 3 popcorn kernels. Place on stovetop with the burner set to medium-high.
 * When all three kernels have popped, put sugar and remaining popcorn into pot.
 * Keep the pot moving, shaking back and forth (keeping pot on burner)
-* When popping slows to 1 pop every 3ish seconds, remove from heat and pour popcorn into large bowl
+* When popping slows to 1 pop every 3-ish seconds, remove from heat and pour popcorn into large bowl
 * Salt to taste, mixing the kettle corn to distribute the salt
 
 Version 2
