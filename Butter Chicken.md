@@ -1,5 +1,8 @@
 ### Butter Chicken
 
+### Warning
+* This is quite an fragrant dish -- you'll be enjoying the aroma for some time...
+
 ### Marinade
 * 2-2.5 pounds boneless, skinless chicken thighs, trimmed
 * 1 1/4 cup whole milk yogurt
@@ -52,13 +55,16 @@
 
 Serve on rice with naan
 
+Using 14oz crushed tomatoes (rather than the water and paste):
+
+![20220529_170926](https://user-images.githubusercontent.com/27255831/184507599-a100f981-a87a-4815-b39a-5759591146ab.jpg)
+
 
 ### Alternate way of preparing/cooking chicken 
 
 * Cut chicken into bite-sized pieces before adding to marinade
-* Pan-fry pieces in 2T olive oil in batches (saving juices) on medium-high heat before building sauce in same pan. Keep any brown bits that form, scraping bottom of pan
+* Pan-fry pieces in 2T olive oil in batches (saving juices) on medium-high heat before building sauce in same pan. Keep any brown bits that form, scraping bottom of pan & building the sauce including these
 * When it comes time, add chicken/juices to sauce
 
 
-### Warning
-* This is quite an fragrant dish -- you'll be enjoying the aroma for some time...
+
