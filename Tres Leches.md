@@ -37,6 +37,10 @@
 * Poke a bunch of holes into cake - a chopstick or the handle of a wooden spoon works for this
 * Allow cake to cool completely
 
+Note: I'm not completely happy with the way this cake rises. What I do is separate the eggs, and instead of addding the whole eggs to the butter/sugar mixture is add just the yolks, and then the flour mixture.
+
+Then, I beat the whites into a thick merangue, and add a third of it to the batter, and mix well. Then I *fold* in 1/2 of the remaining egg whites - fold just until you don't see any more streaks. Then fold in the remaining egg whites. I think this give a much better rise, resulting in a thicker cake.
+
 #### The Glaze
 
 * Mix the milks well
