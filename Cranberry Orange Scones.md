@@ -1,7 +1,7 @@
 Delicious Scones!
 
   *  270 g all-purpose flour
-  *  2 7 g baking powder
+  *  7 g baking powder
   *  5 g salt
   *  64 g Sugar
   *  6 tbsp. (85 g/3 oz) unsalted butter, frozen
