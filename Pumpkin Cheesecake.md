@@ -1,14 +1,14 @@
 # Pumpkin Cheesecake
 
-### Ingredients
+## Ingredients
 
-##__Crust__
+### __Crust__
 * 1 3/4 C graham cracker crumbs
 * 3 TB light brown sugar
 * 1/2 teaspoon ground cinnamon
 * 1/2 C melted salted butter
 
-##__FILLING__
+### __FILLING__
 * 3 (8 ounce) packages cream cheese, room temperature
 * 1 (15 ounce) can pumpkin puree
 * 3 eggs
@@ -21,7 +21,7 @@
 * 2 TB all-purpose flour
 * 1 t vanilla extract
 
-##__Directions__
+### __Directions__
 1. Preheat oven to 350 degrees F.
 
 2. In medium bowl, combine crumbs,
