@@ -8,8 +8,8 @@
 * 1/2 teaspoon ground cinnamon
 * 1/2 C melted salted butter
 
-### __FILLING__
-* 3 (8 ounce) packages cream cheese, room temperature
+### __FILLING__ (_Note: ingredients should be room temperature_)
+* 3 (8 ounce) packages cream cheese
 * 1 (15 ounce) can pumpkin puree
 * 3 eggs
 * 1 egg yolk
