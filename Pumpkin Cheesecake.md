@@ -24,19 +24,9 @@
 ### __Directions__
 1. Preheat oven to 350 degrees F.
 
-2. In medium bowl, combine crumbs,
-sugar and cinnamon. Add melted
-butter. Press down flat into a 9-inch
-springform pan. Set aside.
+2. In medium bowl, combine crumbs, sugar and cinnamon. Add melted butter. Press down flat into a 9-inch springform pan. Set aside.
+   _Note: you may want to wrap the bottom of the pan with foil to avoid a mess - I've had the butter from the crust ooze out; it's quite the mess._
 
-3. Beat cream cheese until smooth.
-Add pumpkin puree, eggs, egg yolk,
-sour cream, sugar and the spices. Add
-flour and vanilla. Beat together until
-well combined.
+3. Beat cream cheese until smooth. Add pumpkin puree, eggs, egg yolk, sour cream, sugar and the spices. Add flour and vanilla. Beat together until well combined.
 
-4. Pour into crust. Spread out evenly
-and place oven for 1 hour. Remove
-from the oven and let sit for 15
-minutes. Cover with plastic wrap and
-refrigerate for 4 hours.
+4. Pour into crust. Spread out evenly and place oven for 1 hour. Remove from the oven and let sit for 15 minutes. Cover with plastic wrap and refrigerate for 4 hours.
