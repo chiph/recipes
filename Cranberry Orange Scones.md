@@ -35,7 +35,7 @@
 
 This one is slightly easier, and I think a bit better.
 
-### Base ingredients
+### Ingredients
 
 * 2 cups (250 g) all-purpose flour, spooned and leveled, plus more for hands and work surface
 * 1/2 cup (100 g) granulated sugar
@@ -74,5 +74,5 @@ This one is slightly easier, and I think a bit better.
 ### Notes
 
 * You want the butter in the batter to be *cold*, so I tend to stash the flour mixture in the freezer overnight. About 30 minutes is *probably* enough.
-* I combine the cream, egg, and zest at the same time to give the orange zest more time to infuse.
+* I combine the cream, egg, vanilla and zest at the same time to give the orange zest more time to infuse.
 * 25 minutes is likely too long—start checking at 22 minutes.
