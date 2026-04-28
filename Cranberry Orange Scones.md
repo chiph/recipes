@@ -1,15 +1,15 @@
 Delicious Scones!
 
-  *  270 g all-purpose flour
-  *  7 g baking powder
-  *  5 g salt
-  *  64 g Sugar
-  *  6 tbsp. (85 g/3 oz) unsalted butter, frozen
+*  270 g all-purpose flour
+*  7 g baking powder
+*  5 g salt
+*  64 g Sugar
+*  6 tbsp. (85 g/3 oz) unsalted butter, frozen
 
-  *  3/4 cup (177 g/6.25 oz) heavy cream, chilled
-  *  2 eggs, beaten
-  *  Zest of two oranges
-  *  1/3 cup dried cranberries chopped
+*  3/4 cup (177 g/6.25 oz) heavy cream, chilled
+*  2 eggs, beaten
+*  Zest of two oranges
+*  1/3 cup dried cranberries chopped
   
 1. I like to mix the cream, eggs and orange zest ahead of time, allowing the flavor from the zest to really come through. I usually mix these the night before but a few hours is probably plenty.
 2. Mix/sift the flour, baking powder, salt and sugar in a bowl
@@ -24,29 +24,31 @@ Delicious Scones!
 11. Bake 23-25 minutes / until golden brown
 12. Cool on rack
 
------
+--------
 
-    2 cups (250g) all-purpose flour (spoon & leveled), plus more for hands and work surface
-    1/2 cup (100g) granulated sugar
-    2 and 1/2 teaspoons baking powder
-    1/2 teaspoon salt
-    1/2 cup (1 stick; 115g) unsalted butter, frozen
-    1/2 cup (120ml) heavy cream (plus 2 Tbsp for brushing)
-    1 large egg
-    1 and 1/2 teaspoons pure vanilla extract
+Method 2 - This one is slightly easier & I think a bit better
+
+* 2 cups (250g) all-purpose flour (spoon & leveled), plus more for hands and work surface
+* 1/2 cup (100g) granulated sugar
+* 2 and 1/2 teaspoons baking powder
+* 1/2 teaspoon salt
+* 115g (1 stick) unsalted butter, frozen
+* 1/2 cup (120ml) heavy cream (plus 2 Tbsp for brushing)
+* 1 large egg
+* 1 and 1/2 teaspoons pure vanilla extract
 	
-	Variations:
-	Cranberry-orange
-	1 C dried cranberries chopped
-	zest of 2 oranges
+-- Variations:
+ Cranberry-orange
+	* 1 C dried cranberries chopped
+	* Zest of 2 oranges
 	
-	Blueberry
-    1 heaping cup (180g) fresh or frozen blueberries (do not thaw)
-    1 teaspoon ground cinnamon
+-- Blueberry
+    * 1 heaping cup (180g) fresh or frozen blueberries (do not thaw)
+    * 1 teaspoon ground cinnamon
 	
 Instructions
 
-   * Whisk flour, sugar, baking powder, cinnamon, and salt together in a large bowl. Grate the frozen butter using a box grater. Add it to the flour mixture and combine with a pastry cutter, two forks, or your fingers until the mixture comes together in pea-sized crumbs. See video above for a closer look at the texture. Place in the refrigerator or freezer as you mix the wet ingredients together.
+   * Whisk flour, sugar, baking powder, cinnamon, and salt together in a large bowl. Grate the frozen butter using a box grater. Add it to the flour mixture and combine with a pastry cutter, two forks, or your fingers until the mixture comes together in pea-sized crumbs. Wear gloves and work the mixture until it resembles wet sand
    * Whisk 1/2 cup heavy cream, the egg, and vanilla extract together in a small bowl. IF making the cranberry-orange scones, add zest
    * Drizzle wet mix over the flour mixture, add the blueberries or cranberries, then mix together until everything appears moistened.
    * Pour onto the counter and, with floured hands, work dough into a ball as best you can. Dough will be sticky. If it’s too sticky, add a little more flour. If it seems too dry, add 1-2 more Tablespoons heavy cream. Press into an 8-inch disc and, with a sharp knife or bench scraper, cut into 8 wedges.
@@ -57,3 +59,6 @@ Instructions
    * Bake for 22-25 minutes or until golden brown around the edges and lightly browned on top. Remove from the oven and cool for a few minutes before topping with vanilla icing.
    * Leftover iced or un-iced scones keep well at room temperature for 2 days or in the refrigerator for 5 days.
 
+Note: You want the butter in the batter to be *cold* so I tend to stash the flour mixture in the freezer overnight (30 mins is *probably* ok). I combine the cream/egg/zest at the same time, to give the flavors time to incorporate
+
+Time: 25 mins is likely too long - check at 22
