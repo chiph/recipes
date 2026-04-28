@@ -36,13 +36,13 @@ Method 2 - This one is slightly easier & I think a bit better
 * 1/2 cup (120ml) heavy cream (plus 2 Tbsp for brushing)
 * 1 large egg
 * 1 and 1/2 teaspoons pure vanilla extract
-	
--- Variations:
+
+Variations:
  Cranberry-orange
 	* 1 C dried cranberries chopped
 	* Zest of 2 oranges
 	
--- Blueberry
+ Blueberry
     * 1 heaping cup (180g) fresh or frozen blueberries (do not thaw)
     * 1 teaspoon ground cinnamon
 	
