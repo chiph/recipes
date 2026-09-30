@@ -30,9 +30,9 @@
 * Whisk together the flour, baking powder and salt in a bowl and set aside
 * In a stand mixer, beat the egg yolks for 1 minute. Decrease speed to low and gradually add larger portion of sugar, scraping down the sides occasionally
 * Add vanilla
-* In a separate (metal or glass) bowl, beat the egg whites until thick and foamy. Gradually add smaller portion of sugar until thick peaks are formed.
+* In a separate (metal or glass) bowl, beat the egg whites until thick and foamy. Gradually add smaller portion of sugar until thick peaks are formed. Basically, when you turn the mixer upside down, you'll see peaks that don't fall.
 * Fold whites into batter in batches of 1/3s
-* Fold flour mixture into batter
+* Fold flour mixture into batter - don't work it too much, just until the flour disappears
 * Transfer batter to prepared pan and bake 25-30 minutes
 * Remove to cooling rack and let cool completely
 * Poke a bunch of holes into cake - a chopstick or the handle of a wooden spoon works for this
@@ -44,7 +44,9 @@
 
 #### The Topping
 
-* Using the whisk attachment in stand mixer, whip the cream until thicker
+Best to stash the bowl and wisk/beaters in fridge ahead of time - a cold bowl helps the cream whip up more quickly.
+
+* Using the whisk attachment in stand mixer, whip the cream until thicker. A hand mixer works for this too.
 * Add vanilla, continue mixing
 * Gradually add sugar
 
